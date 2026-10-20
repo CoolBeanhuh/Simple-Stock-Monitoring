@@ -1,0 +1,7 @@
+{
+  "stocks": {
+    "AAPL": {"below": 180, "above": 250, "daily_drop_pct": 5},
+    "MSFT": {"daily_drop_pct": 4},
+    "SHOP.TO": {"daily_rise_pct": 6}
+  }
+}
